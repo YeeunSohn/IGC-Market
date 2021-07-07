@@ -10,6 +10,15 @@
 > 데이터베이스: MongoDB
 
 ------------------------------------
+## 프로젝트에서 담당한 파트
+
+초기 Figma를 디자인하고 프론트엔드 파트를 담당해서 React.js를 사용해 개발.
+
+frontend1 폴더안의 코드 개발 담당. 특히 Screen 폴더안의 코드들 주로 담당.
+
+Screen 폴더 안에 주요 페이지 별로 나눠서 개발 후 App.js로 import함.
+
+-------------------------------------
 ## 웹사이트에서 구현한 기능
 * 이메일과 비밀번호로 회원가입 후 로그인 가능
 
@@ -35,10 +44,7 @@
 
 Figma 링크: https://www.figma.com/file/91tCZws4DP3u2sZmMojST8/IGC-Market?node-id=0%3A1
 
-------------------------------
-## UML Database Schema
-* 데이터베이스 파일 이름: database.sql
+![IGC Market](https://user-images.githubusercontent.com/71821196/124694674-b5f8ec80-df1c-11eb-8e7a-6a7d9e09d8c0.png)
 
-교수님이 주신 Schema를 기반으로 데이터베이스 생성
 
-![image](https://user-images.githubusercontent.com/71821196/124680794-1c244600-df02-11eb-8c21-25b72cc8fbcb.png)
+
