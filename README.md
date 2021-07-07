@@ -1,2 +1,0 @@
-# Yeeun Sohn's Portfolio
-
